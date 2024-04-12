@@ -7,5 +7,5 @@ define('DB_PWD', 'aga');
 define('PREFIXE', 'aga');
 
 
-define('HOME_URL', '/');
+define("HOME_URL", "/");
 define('DB_INITIALIZED', FALSE);
